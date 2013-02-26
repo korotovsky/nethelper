@@ -1,7 +1,7 @@
 nethelper
 =========
 
-Then network helper for intranet
+The network helper for intranet
 
 !!! The project "on the knee"
 
